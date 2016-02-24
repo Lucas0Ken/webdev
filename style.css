@@ -1,0 +1,21 @@
+body{
+background-color: #BFEFFF
+; color:red;
+font-size: 18px
+}
+h1{
+	color:green;
+}
+
+p{
+	background-color: red
+	; color:blue;
+}
+#line{
+	background-color: black;
+	color: white;
+}
+.teste{
+	color: white;
+	font-size: 20px
+}
